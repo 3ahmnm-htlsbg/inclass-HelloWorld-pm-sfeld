@@ -9,7 +9,7 @@
 **2D Project**
 
 **Project Description:**
-This project intends to practice the git workflow and to learn how to write a nicely formated README. It's also the first time importing playmaker into a unity project.
+This project is intendet to help practice the git workflow and to learn how to write a nicely formated README. It's also the first time importing playmaker into a unity project.
 
 **Target platform:**
 WebGL (RefRes: 1280x720 HD-720p) Standalone
